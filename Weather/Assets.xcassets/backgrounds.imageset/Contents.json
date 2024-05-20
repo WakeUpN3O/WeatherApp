@@ -1,0 +1,32 @@
+{
+  "images" : [
+    {
+      "filename" : "sun_with_sky_inspiring_image.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "sun_with_sky_inspiring_image 1.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "DALL·E 2024-05-20 15.06.15 - An inspiring full image of a bright moon in a clear night sky. The moon should be large and prominent, emitting a soft glow. The sky should be a deep,.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
